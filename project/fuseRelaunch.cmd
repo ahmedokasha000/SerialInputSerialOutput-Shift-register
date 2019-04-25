@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "C:/Users/Remem Who R U/Desktop/2comm_2nd_term/vhdl_project/project/project_isim_beh.exe" -prj "C:/Users/Remem Who R U/Desktop/2comm_2nd_term/vhdl_project/project/project_beh.prj" "work.project" 

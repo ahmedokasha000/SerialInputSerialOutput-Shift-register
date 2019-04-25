@@ -1,0 +1,9 @@
+V3 5
+FL "C:/Users/Remem Who R U/Desktop/project.vhd" 2018/05/05.01:43:04 P.20131013
+AR work/project/project -1 FL "C:/Users/Remem Who R U/Desktop/project.vhd" \
+      EN work/project 1525481667
+FL "C:/Users/Remem Who R U/Desktop/ver1 (1).vhd" 2018/05/05.02:54:19 P.20131013
+EN work/project 1525481667 FL "C:/Users/Remem Who R U/Desktop/ver1 (1).vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181
+AR work/project/pro1 1525481668 \
+      FL "C:/Users/Remem Who R U/Desktop/ver1 (1).vhd" EN work/project 1525481667
